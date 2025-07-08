@@ -1,6 +1,7 @@
 🗂️ Excel to MySQL - Transferência de Dados Automatizada
 
-Exercício prático de automação de processos com Python, fazendo a leitura de dados de uma planilha no Excel e adicionando em um banco de dados relacional (MySql). 
+Exercício prático de automação de processos com Python, fazendo a leitura de dados de uma planilha no Excel e adicionando em um banco de dados relacional (MySql).
+
 Objetivo: automatizar a inserção de dados de um arquivo Excel para um banco relacional de forma simples e funcional, como parte do meu aprendizado em Python, automação e manipulação de dados.
 
 Tecnologias Utilizadas:
