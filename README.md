@@ -10,16 +10,16 @@ Tecnologias Utilizadas:
  * MySQL – como sistema gerenciador de banco de dados relacional
 
 Estrutura do Projeto:
-📦excel-to-mysql
- ┣ 📄main.py           # Script principal
- ┣ 📄dados.xlsx        # Planilha de exemplo
- ┗ 📄README.md         # Este arquivo
+📦Py-mod1
+ ┣ 📄autoBd.py          
+ ┣ 📄dados.xlsx         
+ ┗ 📄README.md           
 
 Observações:
 Este projeto é didático e voltado para o aprendizado de integração entre arquivos Excel e bancos de dados relacionais.
 Pode ser adaptado para outros bancos, como PostgreSQL, SQLite, etc.
 
-Aprendizados
+Aprendizados:
   * Manipulação de arquivos Excel com Python
   * Conexão e inserção de dados em banco de dados MySQL
   * Tratamento de erros simples e organização de código em etapas
